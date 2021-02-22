@@ -1,5 +1,5 @@
+from math import *
 # 1 zad
-
 # a = 10
 # b = 5
 # c = 3.14
@@ -25,6 +25,7 @@
 # dzielenie = a/b
 
 # # 3 zad
+# a, b, c = 25, 5, 2
 # a += b
 # print(a)
 # a -= c
@@ -37,3 +38,15 @@
 # print(b)
 # a %=c
 # print(a)
+
+#4 zad
+# print(e**10)
+# print((log((5+(sin(8)**2)), e))**(1/6))
+# print(floor(3.55))
+# print(ceil(4.80))
+
+#5 zad
+imie = 'BARBARA'
+nazwisko = 'ZUREK'
+print(imie.capitalize())
+print(nazwisko.capitalize())
