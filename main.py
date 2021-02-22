@@ -59,3 +59,21 @@ from math import *
 # zmienna = 'cokolwiek'
 # print(zmienna[1])
 # print(zmienna[-1])
+
+# 8 zad
+# string = 'oh-oh-oh-oh-oh oh-oh-oh-oh-oh-oh-oh Caught in a bad romance'
+# print(string.split())
+
+# 9 zad
+a = 'zmienna'
+b = 'Ala'
+c = 3.45345
+d = 5.12421
+e = '1fd5ed'
+f = 'a5bade'
+print(str(a))
+print(str(b))
+print(float(c))
+print(float(d))
+print(bytes.fromhex(e))
+print(bytes.fromhex(f))
