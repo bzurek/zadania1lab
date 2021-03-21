@@ -81,4 +81,4 @@
 #   b =int(nb)
 #   print(b)
 # except ValueError:
-#     print("To nie jest liczba")
+#   print("To nie jest liczba")
